@@ -1,4 +1,5 @@
 # [Syllabus](http://en.wikipedia.org/wiki/Syllabus) for the AI for CS course
+:mortar_board: Syllabus
 
 * Unit 1 - Agents and Multiagent Systems
 * Unit 2 - Knowledge Representation and Reasoning 
