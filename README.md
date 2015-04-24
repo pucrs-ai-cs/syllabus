@@ -13,7 +13,7 @@ You can check the current schedule (in Moodle) [here](http://moodle.pucrs.br/mod
 ## Exercises
 
 Some exercises are available at our [Problem Sets](http://pucrs-ai-cs.github.io/problem-sets/) repo.
-I would suggest you to fork and answer in separate files, like TXTs.
+If you want to version your answers fork the repo and answer in separate text files.
 
 ## Assignments
 
