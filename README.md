@@ -12,7 +12,7 @@ You can check the current schedule (in Moodle) [here](http://moodle.pucrs.br/mod
 
 ## Exercises
 
-Some exercises are available at our [Problem Sets](https://github.com/pucrs-ai-cs/problem-sets) repo.
+Some exercises are available at our [Problem Sets](http://pucrs-ai-cs.github.io/problem-sets/) repo.
 I would suggest you to fork and answer in separate files, like TXTs.
 
 ## Assignments
