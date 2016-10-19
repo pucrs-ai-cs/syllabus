@@ -22,5 +22,5 @@ If you want to version your answers fork the repo and answer in separate text fi
 
 - [T1a - Heuristic search](https://github.com/pucrs-ai-cs/search)
 - [T1b - Adversarial search](https://github.com/pucrs-ai-cs/adversarial-search)
-- [T1c - Planning](https://github.com/pucrs-ai-cs/planning) CLOSED
-- [T2 - Reinforcement learning]() CLOSED
+- [T1c - Planning](https://github.com/pucrs-ai-cs/planning) 
+- [T2 - Reinforcement learning](https://github.com/pucrs-ai-cs/reinforcement) 
