@@ -1,13 +1,17 @@
 # [Syllabus](http://en.wikipedia.org/wiki/Syllabus) for the AI for CS course
 :mortar_board: **Syllabus**
 
-* Unit 1 - Agents and Multiagent Systems
-* Unit 2 - Knowledge Representation and Reasoning 
-* Unit 3 - Agents and Planning
-* Unit 4 - Agents and Machine Learning
+* Unit 1 - Search
+* Unit 2 - Planning
+* Unit 3 - Stochastic Planning
+* Unit 4 - Machine Learning
 
 Below, you can watch a quick introduction to AI from the BBC  
 [![Alt text for your video](http://img.youtube.com/vi/fvtrRGmv7aU/0.jpg)](https://www.youtube.com/watch?v=fvtrRGmv7aU)
+
+## Textbook
+
+We use Russel and Norvig's [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu)
 
 ## Schedule
 
